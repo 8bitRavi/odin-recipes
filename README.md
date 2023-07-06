@@ -1,2 +1,2 @@
 # odin-recipes
-# This is project is meant to showcase my abilities in HTML as I go through The Odin Project course to better myself for web/software development. :D
+# This project is from TheOdinProject which will demonstrate knowledge of core software development concepts and the usage of github for version control during development. My goal is to hopefully complete this project and this course and further advance my skills in software development. :D
